@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shouren's blog</title><link>http://shouren.me/</link><description></description><atom:link href="http://shouren.me/feeds/shouren.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 28 Jul 2014 11:09:00 +0800</lastBuildDate><item><title>Test Post One</title><link>http://shouren.me/my-test-post.html</link><description>&lt;h1&gt;Welcome to StackEdit!&lt;/h1&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Shouren's blog</title><link>http://blog.shouren.me/</link><description></description><atom:link href="http://blog.shouren.me/feeds/shouren.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 28 Jul 2014 11:09:00 +0800</lastBuildDate><item><title>Test Post One</title><link>http://blog.shouren.me/my-test-post.html</link><description>&lt;h1&gt;Welcome to StackEdit!&lt;/h1&gt;
 &lt;p&gt;Hello, I'm your first Markdown document in &lt;strong&gt;StackEdit&lt;/strong&gt;&lt;sup id="fnref:stackedit"&gt;&lt;a class="footnote-ref" href="#fn:stackedit" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;. Don't delete me, I can be helpful. I can be recovered anyway in the &lt;strong&gt;Utils&lt;/strong&gt; tab of the &lt;i class="icon-cog"&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;Documents&lt;/h2&gt;
@@ -328,7 +328,7 @@ $$&lt;/p&gt;
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shouren</dc:creator><pubDate>Mon, 28 Jul 2014 11:09:00 +0800</pubDate><guid>tag:shouren.me,2014-07-28:my-test-post.html</guid><category>pelican</category><category>Test</category></item><item><title>Test Post Two</title><link>http://shouren.me/my-test-post-01.html</link><description>&lt;p&gt;&lt;img alt="Mou icon" src="http://mouapp.com/Mou_128.png" /&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shouren</dc:creator><pubDate>Mon, 28 Jul 2014 11:09:00 +0800</pubDate><guid>tag:blog.shouren.me,2014-07-28:my-test-post.html</guid><category>pelican</category><category>Test</category></item><item><title>Test Post Two</title><link>http://blog.shouren.me/my-test-post-01.html</link><description>&lt;p&gt;&lt;img alt="Mou icon" src="http://mouapp.com/Mou_128.png" /&gt;&lt;/p&gt;
 &lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Mou&lt;/strong&gt;, the missing Markdown editor for &lt;em&gt;web developers&lt;/em&gt;.&lt;/p&gt;
 &lt;h3&gt;Syntax&lt;/h3&gt;
@@ -558,7 +558,7 @@ Above line ended with 2 spaces.&lt;/p&gt;
 &lt;p&gt;And that's the footnote.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shouren</dc:creator><pubDate>Mon, 28 Jul 2014 11:09:00 +0800</pubDate><guid>tag:shouren.me,2014-07-28:my-test-post-01.html</guid><category>pelican</category><category>Test</category></item><item><title>Test Post One</title><link>http://shouren.me/my-test-post-1.html</link><description>&lt;h1&gt;Welcome to StackEdit!&lt;/h1&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shouren</dc:creator><pubDate>Mon, 28 Jul 2014 11:09:00 +0800</pubDate><guid>tag:blog.shouren.me,2014-07-28:my-test-post-01.html</guid><category>pelican</category><category>Test</category></item><item><title>Test Post One</title><link>http://blog.shouren.me/my-test-post-1.html</link><description>&lt;h1&gt;Welcome to StackEdit!&lt;/h1&gt;
 &lt;p&gt;Hello, I'm your first Markdown document in &lt;strong&gt;StackEdit&lt;/strong&gt;&lt;sup id="fnref:stackedit"&gt;&lt;a class="footnote-ref" href="#fn:stackedit" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;. Don't delete me, I can be helpful. I can be recovered anyway in the &lt;strong&gt;Utils&lt;/strong&gt; tab of the &lt;i class="icon-cog"&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;Documents&lt;/h2&gt;
@@ -844,4 +844,4 @@ $$&lt;/p&gt;
         (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
     }
 &lt;/script&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shouren</dc:creator><pubDate>Mon, 28 Jul 2014 11:09:00 +0800</pubDate><guid>tag:shouren.me,2014-07-28:my-test-post-1.html</guid><category>pelican</category><category>Test</category></item></channel></rss>
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shouren</dc:creator><pubDate>Mon, 28 Jul 2014 11:09:00 +0800</pubDate><guid>tag:blog.shouren.me,2014-07-28:my-test-post-1.html</guid><category>pelican</category><category>Test</category></item></channel></rss>
