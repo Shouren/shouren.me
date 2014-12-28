@@ -22,4 +22,4 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = "shouren-blog"
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "UA-58026097-1"
