@@ -23,6 +23,7 @@ THEME = '/Users/kimi/Documents/shouren.me/pelican-bootstrap3'
 
 # Blogroll
 LINKS = (
+            ('RSS', SITEURL + '/' + FEED_ALL_ATOM),
             ('Pelican', 'http://getpelican.com/'),
             ('Python.org', 'http://python.org/'),
             ('Jinja2', 'http://jinja.pocoo.org/'),
