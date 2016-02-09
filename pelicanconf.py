@@ -13,8 +13,7 @@ TIMEZONE = 'Asia/Shanghai'
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
-FEED_RSS = 'feeds/rss.xml'
-#FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
@@ -27,7 +26,7 @@ LINKS = (
             ('Pelican', 'http://getpelican.com/'),
             ('Python.org', 'http://python.org/'),
             ('Jinja2', 'http://jinja.pocoo.org/'),
-            ('CT', 'http://chentingpc.me'),)
+        )
 
 # Social widget
 SOCIAL = (
