@@ -19,7 +19,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Pelican Theme
-THEME = '/Users/kimi/Documents/Dev/blog/blog.shouren.me/themes/pelican-bootstrap3'
+# THEME = '/Users/kimi/Documents/Dev/blog/blog.shouren.me/themes/pelican-bootstrap3'
+THEME = '/Users/kimi/Documents/shouren.me/pelican-bootstrap3'
 
 # Blogroll
 LINKS = (
@@ -40,5 +41,6 @@ DEFAULT_PAGINATION = 6
 
 MD_EXTENSIONS = (['codehilite(css_class=highlight)', 'extra'])
 
-PLUGIN_PATHS = ['/Users/kimi/Documents/Dev/blog/blog.shouren.me/plugins']
+# PLUGIN_PATHS = ['/Users/kimi/Documents/Dev/blog/blog.shouren.me/plugins']
+PLUGIN_PATHS = ['/Users/kimi/Documents/shouren.me/pelican-plugins']
 PLUGINS = ['summary', 'gravatar', 'extract_toc', 'latex', 'sitemap']
