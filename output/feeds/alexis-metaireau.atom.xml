@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Shouren's blog</title><link href="http://blog.shouren.me/" rel="alternate"></link><link href="http://blog.shouren.me/feeds/alexis-metaireau.atom.xml" rel="self"></link><id>http://blog.shouren.me/</id><updated>2010-12-05T19:30:00+08:00</updated><entry><title>My super title</title><link href="http://blog.shouren.me/my-super-post.html" rel="alternate"></link><updated>2010-12-05T19:30:00+08:00</updated><author><name>Alexis Metaireau</name></author><id>tag:blog.shouren.me,2010-12-03:my-super-post.html</id><summary type="html">&lt;h1&gt;Welcome to StackEdit!&lt;/h1&gt;
-&lt;p&gt;Hey! I'm your first Markdown document in &lt;strong&gt;StackEdit&lt;/strong&gt;&lt;sup id="fnref:stackedit"&gt;&lt;a class="footnote-ref" href="#fn:stackedit" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;. Don't delete me, I'm very helpful! I can be recovered anyway in the &lt;strong&gt;Utils&lt;/strong&gt; tab of the &lt;i class="icon-cog"&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
-&lt;hr /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Shouren's blog - Alexis Metaireau</title><link href="http://blog.shouren.me/" rel="alternate"></link><link href="http://blog.shouren.me/feeds/alexis-metaireau.atom.xml" rel="self"></link><id>http://blog.shouren.me/</id><updated>2010-12-05T19:30:00+08:00</updated><entry><title>My super title</title><link href="http://blog.shouren.me/my-super-post.html" rel="alternate"></link><published>2010-12-03T10:20:00+08:00</published><updated>2010-12-05T19:30:00+08:00</updated><author><name>Alexis Metaireau</name></author><id>tag:blog.shouren.me,2010-12-03:/my-super-post.html</id><summary type="html">&lt;p&gt;Short version for index and feeds&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Welcome to StackEdit!&lt;/h1&gt;
+&lt;p&gt;Hey! I'm your first Markdown document in &lt;strong&gt;StackEdit&lt;/strong&gt;&lt;sup id="fnref-stackedit"&gt;&lt;a class="footnote-ref" href="#fn-stackedit"&gt;2&lt;/a&gt;&lt;/sup&gt;. Don't delete me, I'm very helpful! I can be recovered anyway in the &lt;strong&gt;Utils&lt;/strong&gt; tab of the &lt;i class="icon-cog"&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2&gt;Documents&lt;/h2&gt;
 &lt;p&gt;StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible &lt;strong&gt;offline!&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -25,7 +25,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Check out the &lt;a href="#publish-a-document"&gt;&lt;i class="icon-upload"&gt;&lt;/i&gt; Publish a document&lt;/a&gt; section for a description of the different output formats.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;h2&gt;Synchronization&lt;/h2&gt;
 &lt;p&gt;StackEdit can be combined with &lt;i class="icon-provider-gdrive"&gt;&lt;/i&gt; &lt;strong&gt;Google Drive&lt;/strong&gt; and &lt;i class="icon-provider-dropbox"&gt;&lt;/i&gt; &lt;strong&gt;Dropbox&lt;/strong&gt; to have your documents saved in the &lt;em&gt;Cloud&lt;/em&gt;. The synchronization mechanism takes care of uploading your modifications or downloading the latest version of your documents.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -51,7 +51,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; If you delete the file from &lt;strong&gt;Google Drive&lt;/strong&gt; or from &lt;strong&gt;Dropbox&lt;/strong&gt;, the document will no longer be synchronized with that location.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;h2&gt;Publication&lt;/h2&gt;
 &lt;p&gt;Once you are happy with your document, you can publish it on different websites directly from StackEdit. As for now, StackEdit can publish on &lt;strong&gt;Blogger&lt;/strong&gt;, &lt;strong&gt;Dropbox&lt;/strong&gt;, &lt;strong&gt;Gist&lt;/strong&gt;, &lt;strong&gt;GitHub&lt;/strong&gt;, &lt;strong&gt;Google Drive&lt;/strong&gt;, &lt;strong&gt;Tumblr&lt;/strong&gt;, &lt;strong&gt;WordPress&lt;/strong&gt; and on any SSH server.&lt;/p&gt;
 &lt;h4&gt;&lt;i class="icon-upload"&gt;&lt;/i&gt; Publish a document&lt;/h4&gt;
@@ -74,7 +74,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; If the file has been removed from the website or the blog, the document will no longer be published on that location.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;h2&gt;Markdown Extra&lt;/h2&gt;
 &lt;p&gt;StackEdit supports &lt;strong&gt;Markdown Extra&lt;/strong&gt;, which extends &lt;strong&gt;Markdown&lt;/strong&gt; syntax with some nice features.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -109,26 +109,26 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Item&lt;/th&gt;
-&lt;th&gt;Value&lt;/th&gt;
-&lt;th&gt;Qty&lt;/th&gt;
+&lt;th align="left"&gt;Item&lt;/th&gt;
+&lt;th align="right"&gt;Value&lt;/th&gt;
+&lt;th align="center"&gt;Qty&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Computer&lt;/td&gt;
-&lt;td&gt;$1600&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
+&lt;td align="left"&gt;Computer&lt;/td&gt;
+&lt;td align="right"&gt;$1600&lt;/td&gt;
+&lt;td align="center"&gt;5&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Phone&lt;/td&gt;
-&lt;td&gt;$12&lt;/td&gt;
-&lt;td&gt;12&lt;/td&gt;
+&lt;td align="left"&gt;Phone&lt;/td&gt;
+&lt;td align="right"&gt;$12&lt;/td&gt;
+&lt;td align="center"&gt;12&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Pipe&lt;/td&gt;
-&lt;td&gt;$1&lt;/td&gt;
-&lt;td&gt;234&lt;/td&gt;
+&lt;td align="left"&gt;Pipe&lt;/td&gt;
+&lt;td align="right"&gt;$1&lt;/td&gt;
+&lt;td align="center"&gt;234&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -152,7 +152,7 @@
 &lt;/dl&gt;
 &lt;h3&gt;Fenced code blocks&lt;/h3&gt;
 &lt;p&gt;GitHub's fenced code blocks are also supported with &lt;strong&gt;Highlight.js&lt;/strong&gt; syntax highlighting:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;// Foo
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;// Foo
 var bar = 0;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -166,7 +166,7 @@ var bar = 0;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;Footnotes&lt;/h3&gt;
-&lt;p&gt;You can create footnotes like this&lt;sup id="fnref:footnote"&gt;&lt;a class="footnote-ref" href="#fn:footnote" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;You can create footnotes like this&lt;sup id="fnref-footnote"&gt;&lt;a class="footnote-ref" href="#fn-footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;h3&gt;SmartyPants&lt;/h3&gt;
 &lt;p&gt;SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:&lt;/p&gt;
 &lt;table&gt;
@@ -200,14 +200,14 @@ var bar = 0;
 &lt;p&gt;[TOC]&lt;/p&gt;
 &lt;h3&gt;MathJax&lt;/h3&gt;
 &lt;p&gt;You can render &lt;em&gt;LaTeX&lt;/em&gt; mathematical expressions using &lt;strong&gt;MathJax&lt;/strong&gt;, as on &lt;a href="http://math.stackexchange.com/"&gt;math.stackexchange.com&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;The &lt;em&gt;Gamma function&lt;/em&gt; satisfying &lt;span class="math"&gt;\(\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N\)&lt;/span&gt; is via the Euler integral&lt;/p&gt;
-&lt;div class="math"&gt;$$
+&lt;p&gt;The &lt;em&gt;Gamma function&lt;/em&gt; satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral&lt;/p&gt;
+&lt;p&gt;$$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$&lt;/div&gt;
+$$&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; To make sure mathematical expressions are rendered properly on your website, include &lt;strong&gt;MathJax&lt;/strong&gt; into your template:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;text/javascript&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;type=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;text/javascript&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -216,14 +216,14 @@ $$&lt;/div&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;UML diagrams&lt;/h3&gt;
 &lt;p&gt;You can also render sequence diagrams like this:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;Alice-&amp;gt;Bob: Hello Bob, how are you?
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Alice-&amp;gt;Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks
 Bob--&amp;gt;Alice: I am good thanks!
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;And flow charts like this:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;st=&amp;gt;start: Start
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;st=&amp;gt;start: Start
 e=&amp;gt;end
 op=&amp;gt;operation: My Operation
 cond=&amp;gt;condition: Yes or No?
@@ -242,72 +242,15 @@ cond(no)-&amp;gt;op
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;Support StackEdit&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&amp;amp;summary=true"&gt;&lt;img alt="" src="https://cdn.monetizejs.com/resources/button-32.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://monetizejs.com/authorize?client_id=ESTHdCYOi18iLhhO&amp;amp;summary=true"&gt;&lt;img alt="" src="https://cdn.monetizejs.com/resources/button-32.png"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div class="footnote"&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;ol&gt;
-&lt;li id="fn:footnote"&gt;
-&lt;p&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote&lt;/strong&gt;.&amp;#160;&lt;a class="footnote-backref" href="#fnref:footnote" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;li id="fn-footnote"&gt;
+&lt;p&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote&lt;/strong&gt;.&amp;#160;&lt;a class="footnote-backref" href="#fnref-footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id="fn:stackedit"&gt;
-&lt;p&gt;&lt;a href="https://stackedit.io/"&gt;StackEdit&lt;/a&gt; is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.&amp;#160;&lt;a class="footnote-backref" href="#fnref:stackedit" rev="footnote" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;li id="fn-stackedit"&gt;
+&lt;p&gt;&lt;a href="https://stackedit.io/"&gt;StackEdit&lt;/a&gt; is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.&amp;#160;&lt;a class="footnote-backref" href="#fnref-stackedit" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    var location_protocol = (false) ? 'https' : document.location.protocol;
-    if (location_protocol !== 'http' &amp;&amp; location_protocol !== 'https') location_protocol = 'https:';
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;/div&gt;</content><category term="pelican"></category><category term="publishing"></category></entry></feed>

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.3
+# !/usr/bin/env python3.3
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
@@ -18,8 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Pelican Theme
-# THEME = '/Users/kimi/Documents/Dev/blog/blog.shouren.me/themes/pelican-bootstrap3'
-THEME = '/Users/kimi/Documents/shouren.me/pelican-bootstrap3'
+THEME = '/Users/kimi/Documents/Dev/side_project/blog/theme/pelican-blue'
 
 # Blogroll
 LINKS = (
@@ -37,10 +36,10 @@ SOCIAL = (
 DEFAULT_PAGINATION = 6
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
+MARKDOWN = (['codehilite(css_class=highlight)', 'extra'])
 MD_EXTENSIONS = (['codehilite(css_class=highlight)', 'extra'])
 
-# PLUGIN_PATHS = ['/Users/kimi/Documents/Dev/blog/blog.shouren.me/plugins']
-PLUGIN_PATHS = ['/Users/kimi/Documents/shouren.me/pelican-plugins']
+PLUGIN_PATHS = ['/Users/kimi/Documents/Dev/side_project/blog/plugins']
 PLUGINS = ['summary', 'gravatar', 'extract_toc', 'latex', 'sitemap']
