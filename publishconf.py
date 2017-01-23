@@ -1,5 +1,6 @@
-#!/usr/bin/env python3.3
+# !/usr/bin/env python3.3
 # -*- coding: utf-8 -*- #
+
 from __future__ import unicode_literals
 
 # This file is only used if you use `make publish` or
@@ -10,7 +11,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://blog.shouren.me'
+SITEURL = 'https://blog.shouren.me'
 RELATIVE_URLS = False
 
 FEED_RSS = 'feeds/rss.xml'
