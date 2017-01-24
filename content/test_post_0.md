@@ -1,7 +1,7 @@
 Title: Note for Let's Encrypt
 Date: 2017-01-23 16:20
 Modified: 2017-01-23 16:20
-Category: HTTPs
+Category: Tech
 Tags: HTTPs
 Slug: note-for-let's-encrypt
 Authors: Shouren

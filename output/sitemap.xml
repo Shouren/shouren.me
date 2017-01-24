@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blog.shouren.me/</loc>
-<lastmod>2017-01-23T18:25:49-00:00</lastmod>
+<lastmod>2017-01-24T11:55:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.shouren.me/archives.html</loc>
-<lastmod>2017-01-23T18:25:49-00:00</lastmod>
+<lastmod>2017-01-24T11:55:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.shouren.me/tags.html</loc>
-<lastmod>2017-01-23T18:25:49-00:00</lastmod>
+<lastmod>2017-01-24T11:55:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blog.shouren.me/categories.html</loc>
-<lastmod>2017-01-23T18:25:49-00:00</lastmod>
+<lastmod>2017-01-24T11:55:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,7 +39,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://blog.shouren.me/category/https.html</loc>
+<loc>https://blog.shouren.me/category/tech.html</loc>
 <lastmod>2017-01-23T16:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
