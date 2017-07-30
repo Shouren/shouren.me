@@ -22,7 +22,7 @@ sudo yum install cerbot
 - webroot: For website which is running
 - standalone: Opposite of above
 ``` bash
-cerbot certonly
+sudo cerbot --nginx
 ```
 
 ### Renewing Cert

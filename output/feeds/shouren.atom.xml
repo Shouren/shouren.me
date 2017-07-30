@@ -14,7 +14,7 @@
 &lt;li&gt;webroot: For website which is running&lt;/li&gt;
 &lt;li&gt;standalone: Opposite of above&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;cerbot certonly
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo cerbot --nginx
 &lt;/pre&gt;&lt;/div&gt;
 
 

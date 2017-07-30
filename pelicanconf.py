@@ -6,7 +6,7 @@ AUTHOR = 'shouren'
 SITENAME = "Shouren's blog"
 SITEURL = 'https://blog.shouren.me'
 
-PATH = 'content'
+PATH = './content'
 
 TIMEZONE = 'Asia/Shanghai'
 
@@ -18,7 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Pelican Theme
-THEME = '/Users/kimi/Documents/Dev/side_project/blog/theme/pelican-blue'
+THEME = './theme/pelican-blue'
 
 # Blogroll
 LINKS = (
@@ -36,10 +36,16 @@ SOCIAL = (
 DEFAULT_PAGINATION = 6
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
-MARKDOWN = (['codehilite(css_class=highlight)', 'extra'])
-MD_EXTENSIONS = (['codehilite(css_class=highlight)', 'extra'])
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
 
-PLUGIN_PATHS = ['/Users/kimi/Documents/Dev/side_project/blog/plugins']
+PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = ['summary', 'gravatar', 'extract_toc', 'latex', 'sitemap']
