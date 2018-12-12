@@ -14,8 +14,6 @@ DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
 
 # Pelican Theme
 THEME = './theme/pelican-blue'
@@ -30,7 +28,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-            ('Twitter', 'https://twitter.com/kimi_ysr'),
+            ('Twitter', 'https://twitter.com/_shouren'),
             ('GitHub', 'https://github.com/Shouren'),)
 
 DEFAULT_PAGINATION = 6

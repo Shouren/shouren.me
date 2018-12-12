@@ -1,3 +1,4 @@
 *.pyc
-theme/
-pelican-plugins/
+theme/*
+pelican-plugins/*
+output/*

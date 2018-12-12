@@ -1,6 +1,6 @@
 PY?=python3
 #PELICAN?=/opt/local/Library/Frameworks/Python.framework/Versions/3.3/bin/pelican
-PELICAN?=/usr/local/bin/pelican
+PELICAN?=$(shell which pelican)
 PELICANOPTS=
 
 BASEDIR=$(CURDIR)
